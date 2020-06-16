@@ -14,7 +14,7 @@ If you've used notebooks locally before and would prefer to go that route, just 
 
 But this is how my dad does it:
 
-1. Open the desired notebook in Colab. From GitHub, you can do this by clicking the "Open in Colab" button at the top of the notebook.
+1. Open the desired notebook in Colab. From GitHub, you can do this by clicking the "Open in Colab" button at the top of the notebook. If you do not prefer to have your own local copy of the code that retains changes, skip to step 4.
 2. Make a copy of the notebook in your Google Drive storage. In the page header, go to File -> Save a Copy in Drive. You'll have to be logged into your Google account for this to work.
 3. The copy should pop up in a new window or tab. You'll know it's your own personal version because the title in the page header will be "Copy of ___.ipynb". Now you can run the code and change the variables to look at whichever zip codes or counties you're interested in.
 4. Run each code cell sequentially, from top to bottom. The "[  ]" at the top left corner of every gray block is where you click to run it (mousing over it will reveal a circular "play" icon). Read the comments inside the code cell to better understand what's happening inside it. Keep in mind that the first cell in particular might take a little while to run.
