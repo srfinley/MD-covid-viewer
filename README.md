@@ -22,7 +22,7 @@ But this is how my dad does it:
 
 ## The Future
 
-The notebook format represents a compromise between ease of use and ease of creation. This tool was initially envisioned as a web dashboard like the official Maryland source, and I may still end up putting in the additional work to create that, schedule permitting.
+The notebook format represents a compromise between ease of use and ease of creation. This tool was initially envisioned as an online dashboard like the official Maryland source, and I may still end up putting in the additional work to create that, schedule permitting.
 
 ## APIs
 
