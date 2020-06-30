@@ -10,7 +10,8 @@ But those granular views aren't available over time; for the sub-state regions, 
 
 If you've used notebooks locally before and would prefer to go that route, just make sure your Python environment includes the following dependencies:
 
-- Pandas
+- pandas
+- requests
 
 But this is how my dad does it:
 
