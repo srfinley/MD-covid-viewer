@@ -6,6 +6,8 @@ Like a lot of people in self-isolation, my dad has made "checking coronavirus st
 
 But those granular views aren't available over time; for the sub-state regions, it's only possible to get that day's cumulative snapshot. To help my dad see the overall trajectory of the virus's spread, I produced a pair of Python notebooks he could use to visualize both cumulative cases and the rolling average of new cases per day by county and zip code.
 
+For more details, check out my [blog post](https://srfinley.github.io/2020-06-16-covid-notebooks/) about how the notebooks came to be.
+
 ## How to use
 
 If you've used notebooks locally before and would prefer to go that route, just make sure your Python environment includes the following dependencies:
